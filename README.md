@@ -73,3 +73,4 @@ methods in industrial IoT.
 ## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zlatsic&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+![](https://hit.yhype.me/github/profile?user_id=11090684)
