@@ -34,16 +34,10 @@ methods in industrial IoT.
     title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png"
     title="Flask" alt="Flask" width="45" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"
-    title="Ruby" alt="Ruby" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"
-    title="Rails" alt="Rails" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-    title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"
-    title="dotNET" alt="dotNET" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-    title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
+    title="Go" alt="Go" width="45" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+    title="Kubernetes" alt="Kubernetes" width="45" height="60"/>&nbsp;
 </div>
 
 ### Machine learning
