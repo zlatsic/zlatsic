@@ -16,10 +16,10 @@
 
 # Hi, I'm Zlatan Sičanica
 
-I'm a software engineer working at Končar - Digital. My job involves Python
-development of backend modules for industrial IoT systems. I am also a doctoral
-candidate at Unversity of Zagreb, researching machine learning integration
-methods in industrial IoT.
+I'm a software engineer working at Bloomreach. My job involves Python and Golang
+development of backend modules for industrial a marketing automation system. I
+am also a doctoral candidate at Unversity of Zagreb, researching machine
+learning integration methods in industrial IoT.
 
 ## Tech interests
 
