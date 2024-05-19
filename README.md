@@ -16,10 +16,10 @@
 
 # Hi, I'm Zlatan Sičanica
 
-I'm a software engineer working at Bloomreach. My job involves Python and Golang
-development of backend modules for industrial a marketing automation system. I
-am also a doctoral candidate at Unversity of Zagreb, researching machine
-learning integration methods in industrial IoT.
+I'm a software engineer working at Happening. My job involves using Golang for
+the development of backend modules for in microservice-based systems with large
+Kafka streams. I am also a doctoral candidate at Unversity of Zagreb, researching
+machine learning integration methods in industrial IoT.
 
 ## Tech interests
 
